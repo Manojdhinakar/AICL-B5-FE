@@ -1,6 +1,6 @@
 #heading1 {
-    color: grey;
-    background-color: black;
+    color: rgb(187, 53, 53);
+    background-color: rgb(0, 102, 255);
     text-align: center;
     padding: 10; /* 10 pixels */
 }
@@ -11,5 +11,5 @@
 }
 
 h4 {
-    color: blue;
+    color: rgb(133, 16, 84);
 }
