@@ -1,15 +1,53 @@
 #heading1 {
-    color: rgb(187, 53, 53);
-    background-color: rgb(0, 102, 255);
+    color: grey;
+    background-color: black;
     text-align: center;
-    padding: 10; /* 10 pixels */
+    padding: 10;
+    /* 10 pixels */
+}
+
+#image {
+    border-radius: 150px;
+    width: 250px;
+    height: 250px;
+}
+
+.container {
+    text-align: center;
+    padding: 40px;
+    margin: 40px;
+    border: 10px solid red;
+    border-radius: 8px;
+    background: limegreen;
 }
 
 .test {
-    color: rgb(15, 187, 199);
+    color: green;
+
+}
+
+.flexdiv {
+    width: 100%;
+    border:1px solid black;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+    flex-direction: column;
+
+}
+
+#elem {
+    text-align: center;
+
+    background: grey;
+    padding: 5px;
+    border: 1px solid red;
+
 
 }
 
 h4 {
-    color: rgb(133, 16, 84);
+    color: blue;
 }
