@@ -1,6 +1,6 @@
 #heading1 {
-    color: grey;
-    background-color: black;
+    color: rgba(51, 6, 94, 0.151);
+    background-color: rgba(14, 119, 66, 0.582);
     text-align: center;
     padding: 10;
     /* 10 pixels */
@@ -16,19 +16,19 @@
     text-align: center;
     padding: 40px;
     margin: 40px;
-    border: 10px solid red;
+    border: 10px solid rgba(189, 118, 12, 0.377);
     border-radius: 8px;
-    background: limegreen;
+    background: rgb(13, 4, 92);
 }
 
 .test {
-    color: green;
+    color: rgb(7, 78, 7);
 
 }
 
 .flexdiv {
     width: 100%;
-    border:1px solid black;
+    border:1px solid rgb(121, 12, 76);
     height: 400px;
     display: flex;
     flex-wrap: wrap;
@@ -41,13 +41,13 @@ align-items: center;
 #elem {
     text-align: center;
 
-    background: grey;
+    background: rgb(121, 5, 86);
     padding: 5px;
-    border: 1px solid red;
+    border: 1px solid rgb(12, 143, 92);
 
 
 }
 
 h4 {
-    color: blue;
+    color: rgb(102, 255, 0);
 }
